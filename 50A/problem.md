@@ -1,8 +1,8 @@
 ## A. Domino piling
-_time limit per test: 2 seconds_
-_memory limit per test: 256 megabytes_
-_input: standard input_
-_output: standard output_
+_time limit per test: 2 seconds_  
+_memory limit per test: 256 megabytes_  
+_input: standard input_  
+_output: standard output_  
 
 ---
 
@@ -15,14 +15,13 @@ You are given a rectangular board of `M × N` squares. Also you are given an
 
 Find the maximum number of dominoes, which can be placed under these restrictions.
 
-**Input**
+**Input**  
 In a single line you are given two integers `M` and `N` — board sizes in squares `(1 ≤ M ≤ N ≤ 16)`.
 
-**Output**
+**Output**  
 Output one number — the maximal number of dominoes, which can be placed.
 
-**Examples**
-
+**Examples**  
 ```
 input
 2 4

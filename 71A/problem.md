@@ -1,8 +1,8 @@
 ## A. Way Too Long Words
-_time limit per test: 1 second_
-_memory limit per test: 256 megabytes_
-_input: standard input_
-_output: standard output_
+_time limit per test: 1 second_  
+_memory limit per test: 256 megabytes_  
+_input: standard input_  
+_output: standard output_  
 
 ---
 
@@ -19,11 +19,10 @@ You are suggested to automatize the process of changing the words with abbreviat
 Input
 The first line contains an integer `n (1 ≤ n ≤ 100)`. Each of the following n lines contains one word. All the words consist of lowercase Latin letters and possess the lengths of from 1 to 100 characters.
 
-**Output**
+**Output**  
 Print n lines. The i-th line should contain the result of replacing of the i-th word from the input data.
 
-**Examples**
-
+**Examples**  
 ```
 input
 
